@@ -1,16 +1,19 @@
-## Hi there 👋
+### مرحباً أنا msd773 👋
+#### هكر أخلاقي من اليمن - إب 🇾🇪
 
-<!--
-**msd773/msd773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> النظام مجرد وهم... أنا أرى الكود
 
-Here are some ideas to get you started:
+---
+### مهاراتي
+- Kali Linux
+- Termux
+- Python
+- Web Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### مشاريعي
+- متجر الخلاص STORE - https://msd773.github.io/salfh-store/
+
+---
+![](https://github-readme-stats.vercel.app/api?username=msd773&show_icons=true&theme=tokyonight)
+
+من إب - اليمن
