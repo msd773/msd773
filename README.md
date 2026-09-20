@@ -1,23 +1,19 @@
-![](IMG-20260919-WA0001.jpg)
+![](IMG-20260919-WA4124.jpg)
 
-
-
-### مرحباً أنا msd773 👋
-#### هكر أخلاقي من اليمن - إب 🇾🇪
-
-> النظام مجرد وهم... أنا أرى الكود
+# 👋 مرحبا أنا msd773
+### 🇾🇪 Ethical Hacker From Ibb, Yemen
 
 ---
-### مهاراتي
-- Kali Linux
-- Termux
-- Python
-- Web Security
+### 🛡️ من أنا؟
+مبرمج وهكر أخلاقي من إب، أحب الأمن السيبراني وحماية المواقع.
 
-### مشاريعي
-- متجر الخلاص STORE - https://msd773.github.io/salfh-store/
+### 💻 مهاراتي
+- Python | JavaScript | HTML/CSS
+- Cyber Security | Bug Hunting
+- Linux | GitHub
+
+### 📫 تواصل معي
+- GitHub: @msd773
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=msd773&show_icons=true&theme=tokyonight)
-
-من إب - اليمن
+⭐ `msd773 ETHICAL HACKER // YEMEN`
